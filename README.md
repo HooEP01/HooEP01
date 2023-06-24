@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Frontend Developer
+# Developer
 
 <h5>Working On:</h5>
 <p>
@@ -9,12 +9,8 @@
      alt="Angular" 
      width="40" height="40">
 <img 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
-     alt="Typesctipt"
-     width="40" height="40">
-<img 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
-     alt="Tailwind CSS" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" 
+     alt="Flutter"
      width="40" height="40">
 </p>
 
