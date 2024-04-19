@@ -1,10 +1,5 @@
-Just a random dude.
+Fullstack developer, DevOps Engineer.
 
 <br>
 
-All my projects are trash, don't waste your time reading!
-
-<br>
-
-Serious reminder! It sucks...
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HooEP01&show_icons=true&theme=radical)
