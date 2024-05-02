@@ -1,6 +1,6 @@
 Fullstack developer, DevOps Engineer.
 <br>
-Proptech, DeFi.
+Proptech, DeFi, Fintech
 <br>
 PHP, Js, Dart, Go
 <br>
