@@ -8,9 +8,6 @@ In Proptech, DeFi, and Fintech.
 - Go
 - Dart
 
-### Experienced in Frontend Framework
-> Svelte > Vuejs > Angular > React (change my mind)
-
 ### Working on
 1. I'm currently learning about blockchain technology and cyber security.
 2. A chat bot side project
