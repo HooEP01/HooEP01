@@ -2,11 +2,12 @@
 In Proptech, DeFi, and Fintech.
 
 ### Frequently used languages
+- Go
 - Typescript
 - Javascript
 - PHP
-- Go
 - Dart
+- Python
 
 ### Working on
 1. I'm currently learning about blockchain technology and cyber security.
